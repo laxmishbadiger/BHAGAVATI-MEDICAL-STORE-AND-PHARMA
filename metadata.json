@@ -1,0 +1,8 @@
+{
+  "name": "AuraMed Express Pharmacy",
+  "description": "Premium licensed digital pharmacy with express 20-minute medicine delivery, real-time courier tracking, and instant prescription verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
